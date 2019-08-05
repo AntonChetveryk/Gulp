@@ -1,0 +1,1 @@
+const es6 = 'es6 => es5';
